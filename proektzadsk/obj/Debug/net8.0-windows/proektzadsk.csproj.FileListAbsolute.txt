@@ -1,0 +1,16 @@
+C:\Users\damian\source\repos\proektzadsk\proektzadsk\bin\Debug\net8.0-windows\proektzadsk.exe
+C:\Users\damian\source\repos\proektzadsk\proektzadsk\bin\Debug\net8.0-windows\proektzadsk.deps.json
+C:\Users\damian\source\repos\proektzadsk\proektzadsk\bin\Debug\net8.0-windows\proektzadsk.runtimeconfig.json
+C:\Users\damian\source\repos\proektzadsk\proektzadsk\bin\Debug\net8.0-windows\proektzadsk.dll
+C:\Users\damian\source\repos\proektzadsk\proektzadsk\bin\Debug\net8.0-windows\proektzadsk.pdb
+C:\Users\damian\source\repos\proektzadsk\proektzadsk\obj\Debug\net8.0-windows\proektzadsk.Form1.resources
+C:\Users\damian\source\repos\proektzadsk\proektzadsk\obj\Debug\net8.0-windows\proektzadsk.csproj.GenerateResource.cache
+C:\Users\damian\source\repos\proektzadsk\proektzadsk\obj\Debug\net8.0-windows\proektzadsk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damian\source\repos\proektzadsk\proektzadsk\obj\Debug\net8.0-windows\proektzadsk.AssemblyInfoInputs.cache
+C:\Users\damian\source\repos\proektzadsk\proektzadsk\obj\Debug\net8.0-windows\proektzadsk.AssemblyInfo.cs
+C:\Users\damian\source\repos\proektzadsk\proektzadsk\obj\Debug\net8.0-windows\proektzadsk.csproj.CoreCompileInputs.cache
+C:\Users\damian\source\repos\proektzadsk\proektzadsk\obj\Debug\net8.0-windows\proektzadsk.dll
+C:\Users\damian\source\repos\proektzadsk\proektzadsk\obj\Debug\net8.0-windows\refint\proektzadsk.dll
+C:\Users\damian\source\repos\proektzadsk\proektzadsk\obj\Debug\net8.0-windows\proektzadsk.pdb
+C:\Users\damian\source\repos\proektzadsk\proektzadsk\obj\Debug\net8.0-windows\proektzadsk.genruntimeconfig.cache
+C:\Users\damian\source\repos\proektzadsk\proektzadsk\obj\Debug\net8.0-windows\ref\proektzadsk.dll
